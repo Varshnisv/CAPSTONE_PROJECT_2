@@ -1,5 +1,6 @@
-# CAPSTONE_PROJECT_2
+# CAPSTONE_PROJECT_2 PLAY STORE REVIEW ANALYSIS
 This is my capstone project for Module-2. Topic name is Google play-store review analysis
+
 **Overview**
 This Project examines information from the Google Play Store to identify the major elements driving app engagement and success. The research seeks to give developers with practical information for capturing the Android app market by optimising factors such as app ratings, size, reviews, and more.
 
