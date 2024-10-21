@@ -4,9 +4,11 @@ This is my capstone project for Module-2. Topic name is Google play-store review
 This Project examines information from the Google Play Store to identify the major elements driving app engagement and success. The research seeks to give developers with practical information for capturing the Android app market by optimising factors such as app ratings, size, reviews, and more.
 
 The project investigates and visualises the link between various app features and success measures (such as ratings and reviews) in order to make data-driven suggestions.
+
 **The project makes use of two primary datasets:**
 
 1.Apps Data from the Google Play Store: This dataset includes details about the apps, including size, number of installs, category, rating, and more.
+
 2.User reviews from the Google Play Store: This dataset includes comments and opinions left by users regarding the apps.
 
 **Goal**
